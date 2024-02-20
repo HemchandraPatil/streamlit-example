@@ -3,4 +3,4 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-st.Title("HELLO world!!!!")
+st.title("HELLO world!!!!")
