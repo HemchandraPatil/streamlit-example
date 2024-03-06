@@ -1,6 +1,5 @@
 # Import python packages
 import streamlit as st
-from snowflake.snowpark.functions import sum, col
 import altair as alt
 
 # Set page config
